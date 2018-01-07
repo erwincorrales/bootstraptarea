@@ -1,0 +1,64 @@
+*{
+    color: black;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #133366;
+}
+
+.header{
+    height: 60px;
+    background-color: lightgrey;
+    box-shadow: 2px 2px 2px black;
+}
+
+.header img{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.social i{
+    color: #133366;
+    font-size: 20px;
+    margin: 18px 6px;
+}
+
+nav{
+    margin-top: 1px;
+}
+
+nav a{
+    height: 40px;
+}
+.fondo{
+    background-color: white;
+    padding: 10px 10px;
+}
+
+.contenido{
+   background-color: #EEE;
+   padding: 20px;
+   margin: 20px auto;
+}
+
+.seccion img{
+    min-height: 300px;
+    margin-bottom: 10px;
+    
+}
+
+.contenido span{
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+.input-group{
+    background-color: gray;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+
+
